@@ -1,0 +1,5 @@
+# Dependencies for image captioning/renaming tooling
+pillow>=10.0.0
+transformers>=4.30.0
+torch>=2.0.0
+torchvision>=0.15.0
